@@ -1,0 +1,50 @@
+{
+ "cutefont-subset.woff2": {
+  "bytes": 69916,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "1ae94331b6ab443b880cdf6228cb9f7ea697d805dea39bb0f35acf4884e7a5f2"
+ },
+ "gaegu-bold-subset.woff2": {
+  "bytes": 224732,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "08c01c3cc9f5f8a53c54815147111869b69d160bb4ce1bd9abf47360fdaf8ce0"
+ },
+ "gaegu-subset.woff2": {
+  "bytes": 83932,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "4cebb79ba9fed741f80607307e7e2b86c234bda83329fbf43d928f05607d6e4b"
+ },
+ "gamjaflower-subset.woff2": {
+  "bytes": 146112,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "f5d52049dc728350106d3eeb44a6dc02ce2c6a1b99c6a17d5136a543741e7c5e"
+ },
+ "gowundodum-subset.woff2": {
+  "bytes": 182236,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "b942ebd96bf081cb2070f028f68b15b739266b176f4cb76f174d20d934650744"
+ },
+ "himelody-subset.woff2": {
+  "bytes": 142016,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "976152fdc149cc20790aedd54071b24e2cde0b00f0bc9dc156c064e43727a060"
+ },
+ "jua-subset.woff2": {
+  "bytes": 187988,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "7e5e12d9b20cc32bdf63613805d6735966f0e33ece2dcb18ccddb689db668f6f"
+ },
+ "singleday-subset.woff2": {
+  "bytes": 48212,
+  "hangul": 2350,
+  "missing_of_2350": 0,
+  "sha256": "cce09306e1cce86c87c0a549511b7af0390809d0467b64001ff2529c784da48a"
+ }
+}
